@@ -1,6 +1,6 @@
 # Namaste React ❤️
 
-# Episode - 6 Exploring the world 🚀
+# Episode - 11 Data is the new oil  🚀
 
 # planning for the food ordering web app 🍴
 
